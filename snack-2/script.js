@@ -1,8 +1,8 @@
 
 //Faccio scrivere le parole dall'utente
 
-var parola1 = prompt("Inserisci una parola che ti piace:");
-var parola2 = prompt("Inserisci un'altra parola che ti piace:");
+const parola1 = prompt("Inserisci una parola che ti piace:");
+const parola2 = prompt("Inserisci un'altra parola che ti piace:");
 
 
 //Determino la parola più corta o più lunga e poi la stampo in console
